@@ -1,7 +1,7 @@
 # Austin AI Ecosystem contact info:
 info@austin-ai.org
 
-Eventbrite: (https://www.eventbrite.com/e/austin-ai-ecosystem-initiative-tickets-92986181171)[FREE Tickets for next meeting]
+Eventbrite: (FREE Tickets for next meeting)[https://www.eventbrite.com/e/austin-ai-ecosystem-initiative-tickets-92986181171]
 
 Artificial Intelligence (AI) is potentially one of the most transformative technologies in human history—and may have impact that exceeds even the Internet and web, laptop and smartphones, and supercomputers. AI is poised to reshape mobility, healthcare, industry, government, safety, national security, and more. However, the new wave of AI—machine learning and especially deep learning—is complex and evolving rapidly, requires new hardware and software for maximum performance, and faces challenges in adoption and measurement of ROI, explainability and forensic analysis, and bias and other ethical issues. Nonetheless, AI is deemed by many innovators, researchers, business leaders, and more as being the most revolutionary (and by a few, potentially dangerous) technology of our time.
 
