@@ -1,2 +1,4 @@
 # Austin AI Ecosystem contact info:
 info@austin-ai.org
+
+Austin AI Ecosystem Initiative is to establish a charter for Austin AI ecosystem participants—companies, government agencies, universities, and more—to collaboratively accelerate the development, application, and positive impacts of AI in business, government, education, and society.
