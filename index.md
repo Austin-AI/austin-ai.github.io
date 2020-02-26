@@ -14,5 +14,5 @@ Accelerating efforts and to become a world leading AI city in the globally compe
 * Join us as we hear speakers from leading AI companies, the City of Austin, and businesses and government organizations who use AI share examples from the ecosystem. Then, we will share a draft of a vision, objectives, roadmap for building a collaborative ecosystem effort, and a program of activities to achieve the objectives.
 
 
-# Austin AI Ecosystem contact info:
+# Contact:
 info@austin-ai.org
